@@ -1,0 +1,1 @@
+This example highlights a frequent mistake in Rust when dealing with references.  The core issue lies in understanding the difference between mutable (`&mut`) and immutable (`&`) references.  The `bug.rs` file contains the erroneous code, while `bugSolution.rs` provides a corrected version illustrating proper handling of mutable references.
